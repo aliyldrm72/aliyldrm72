@@ -46,6 +46,7 @@
 ### Tools 
 <div align="center">  
 <a href="https://slack.com" target="_blank"><img style="margin: 10px" src="https://cdn.dribbble.com/users/121337/screenshots/5885287/slack.png?compress=1&resize=400x300" alt="Slack" height="50" /></a>  
+  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="Slack" height="50" /></a>  
  
 </div>
 
