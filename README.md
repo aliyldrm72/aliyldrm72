@@ -1,18 +1,18 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media1.giphy.com/media/QTfX9Ejfra3ZmNxh6B/200.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Ali, a full-time Front-End  developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working  udemig.com  
   
 
-- 🌱 I’m currently learning React   
+- 🌱 I’m currently improving React projects   
   
 
-- ❓ Ask me about anything related to React and related technologies  
+- ❓ Ask me about anything related to Front-end and related technologies  
   
 
 <br/>  
@@ -55,7 +55,7 @@
 " target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/holdthelifeee" target="_blank">
+<a href="https://twitter.com/holdthelifee" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/physc72" target="_blank">
@@ -85,7 +85,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 
