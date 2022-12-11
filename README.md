@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently improving React projects   
   
--<i class="fa-solid fa-language"></i> Turkish and English are my mother tongues. I can also speak German at B1 level and English at C1 level.
+- 👌 Turkish and English are my mother tongues. I can also speak German at B1 level and English at C1 level.
 
 - ❓ Ask me about anything related to Front-end and related technologies . 
   
