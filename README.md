@@ -3,16 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Ali, a  Front-End  developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Ali from Turkey , a  Front-End  developer 👨‍💻 🚀,
+</div>  
   
 
-- 🔭 I’m currently working  udemig.com  
+- 🔭 I’m currently Learning REACT .  
   
 
 - 🌱 I’m currently improving React projects   
   
 
-- ❓ Ask me about anything related to Front-end and related technologies  
+- ❓ Ask me about anything related to Front-end and related technologies . 
   
 
 <br/>  
