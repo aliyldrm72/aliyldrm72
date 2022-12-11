@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ali, a full-time Front-End  developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Ali, a  Front-End  developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working  udemig.com  
