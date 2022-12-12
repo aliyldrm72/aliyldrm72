@@ -10,7 +10,8 @@
 - 🔭 I’m currently Learning REACT .  
   
 
-- 🌱 I’m currently improving React projects   
+- 🌱 I’m currently improving React projects.
+- 🧑‍🎓 I graduated from Anadolu University web design and coding department. And I am  student of Computer Sciene major at the Univercity Of People .  
   
 - 👌 Turkish and English are my mother tongues. I can also speak German at B1 level and English at C1 level.
 
